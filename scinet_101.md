@@ -1,4 +1,4 @@
-# Scinet GPC basics
+# Scinet GPC 101
 
 The GPC is the [General Purpose Cluster](https://wiki.scinet.utoronto.ca/wiki/index.php/GPC_Quickstart), where most of our work on SciNet HPC system will be done.
 
