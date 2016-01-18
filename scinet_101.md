@@ -61,7 +61,7 @@ $ nano myFirstJob.sh
 In the file, type:
 ```
 #!/bin/bash
-#PBS -l nodes=1:ppn=8,walltime=00:20:00
+#PBS -l nodes=1:ppn=8,walltime=00:10:00
 
 echo "Cluster test successful."
 ```
